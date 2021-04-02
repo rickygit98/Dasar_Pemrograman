@@ -1,0 +1,8 @@
+Install :
+Python Interpreter
+Git
+liclipse
+
+cek git di cmd
+cek python lewat program liclipse, ketik
+print ("test")
